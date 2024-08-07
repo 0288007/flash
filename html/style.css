@@ -4,6 +4,8 @@
 
 body {
     background-image: url('../dev/1984.gif');
+	 background-size: cover;
+ background-repeat: no-repeat;
 }
 
 p {
