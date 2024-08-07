@@ -9,7 +9,7 @@ body {
 }
 
 p {
-		color:#b5b7eb;
+		color:#FFFFFF;
 	        -webkit-text-stroke-width: 1px;
                 -webkit-text-stroke-color: black;
 }
@@ -23,8 +23,9 @@ h1 {
 
 button {	
     background-color: rgba(255, 122, 89, .1);
-    color: #a0b4db;
+    color: #000000;
     border-radius: 5px;
+    border-color: teal;
 		padding: 3px 1%
 }
 
