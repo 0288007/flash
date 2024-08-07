@@ -21,6 +21,7 @@ button {
     color: #a0b4db;
     border-radius: 5px;
 		padding: 3px 1%
+	cursor: pointer;
 }
 
 a:link {
