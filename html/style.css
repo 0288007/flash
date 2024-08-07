@@ -10,20 +10,19 @@ body {
 
 p {
 		color:#b5b7eb;
+	        -webkit-text-stroke-width: 1px;
+                -webkit-text-stroke-color: black;
 }
 
 h1 {
 		position:relative;
 		left:80px;
 		color:#b5b7eb;
-	        text-shadow: -1px 1px 0 #000,
-                1px 1px 0 #000,
-                1px -1px 0 #000,
-                -1px -1px 0 #000;
+                text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 
 button {	
-    background-color: rgba(255, 122, 89, .9);
+    background-color: rgba(255, 122, 89, .1);
     color: #a0b4db;
     border-radius: 5px;
 		padding: 3px 1%
