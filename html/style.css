@@ -1,9 +1,9 @@
 * {
-    font-family: 'Amaranth', sans-serif;
+    font-family: 'Verdana', sans-serif;
 }
 
 body {
-    background: #3e3f57
+    background-image: url('../1984.gif');
 }
 
 p {
@@ -16,11 +16,15 @@ h1 {
 		color:#b5b7eb;
 }
 
-button {
-    background-color: #515357;
+button {	
+    background-color: rgba(255, 122, 89, .9);
     color: #a0b4db;
     border-radius: 5px;
 		padding: 3px 1%
+}
+
+.logo {
+	    cursor: pointer;
 }
 
 a:link {
@@ -66,12 +70,6 @@ header {
 }
 .divide {
 		margin-left:100px;
-}
-
-
-p1 {
-  font-size: 1.75em;
-	color:#b5b7eb;
 }
 
 
