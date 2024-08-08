@@ -56,7 +56,6 @@ header {
 .nav__links {
 	list-style: none;
 	overflow: hidden;
-	background-color: #333333;
 }
 
 .nav__links button {
