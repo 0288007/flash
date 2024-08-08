@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url('1984.gif');
+    background-image: linear-gradient(135deg, #AFEEEE, #FFFFFF);
 	 background-size: cover;
           background-repeat: no-repeat;
 }
