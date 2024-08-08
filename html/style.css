@@ -10,6 +10,7 @@ body {
 
 p {
 		color:#FFFFFF;
+	        font-size: 14px;
 	        -webkit-text-stroke-width: 1px;
                 -webkit-text-stroke-color: black;
 }
