@@ -19,7 +19,7 @@ h1 {
 		position:relative;
 		left:80px;
 		color:#b5b7eb;
-                text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+                text-shadow: 2px 2px black, 1px 1px black;
 }
 
 button {	
