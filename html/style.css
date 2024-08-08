@@ -30,7 +30,7 @@ button {
 		padding: 3px 1%
 }
 
-.logo {
+.button {
 	    cursor: pointer;
 }
 
@@ -55,6 +55,8 @@ header {
 
 .nav__links {
     list-style: none;
+	overflow: hidden;
+	background-color: #333333;
 }
 
 .nav__links button {
