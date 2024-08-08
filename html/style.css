@@ -47,6 +47,12 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 15px 10%;
+	  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 .logo {
@@ -57,19 +63,42 @@ header {
     list-style: none;
 	overflow: hidden;
 	background-color: #333333;
+	  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 .nav__links button {
     display: inline-block;
     padding: 10px 10px;
+	  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 .nav__links li a {
     transition: all 0.3s ease 0s;
+	  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 .nav__links li a:hover {
-    color:
+	      float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 .divider {
