@@ -54,15 +54,9 @@ header {
 }
 
 .nav__links {
+	list-style: none;
+	overflow: hidden;
 	background-color: #333333;
-	  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
-}
 }
 
 .nav__links button {
