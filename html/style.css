@@ -36,6 +36,10 @@ button {
 	    cursor: pointer;
 }
 
+.quote {
+	text-align: center;
+}
+
 a:link {
 	color:#a0b4db;
 }
