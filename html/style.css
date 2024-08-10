@@ -6,7 +6,7 @@ body {
     background-image: url('1984.gif');
 	 background-size: cover;
           background-repeat: no-repeat;
-	    bmargin: 0;
+	    margin: 0;
 }
 
 p {
