@@ -84,8 +84,8 @@ li a {
   text-decoration: none;
   flex-direction: row;
   align-items: center;
-  padding: 10px 25px;
-  gap: 15px;
+  padding: 12px 25px;
+  gap: 20px;
 }
 
 li a:hover {
